@@ -1,0 +1,10 @@
+*.o
+*.a
+*.log
+*.map
+linux-0.11/Image
+/hdc-0.11.img
+.vscode/
+build/
+.xmake/
+env/hdc/*
